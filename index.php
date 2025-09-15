@@ -8,5 +8,9 @@
 <body>
     <h1>Latihan 2</h1>
     <p>Paragraf 2</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
